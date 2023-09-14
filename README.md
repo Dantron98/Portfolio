@@ -8,7 +8,7 @@ The database consists of 206 different sighted entomological species and 43 plan
 I first focused on performing a statistical analysis, which provides useful information for the interests of my biologist colleagues.
 A total of 13,880 individuals were collected, averaging 67.37 individuals collected per species, while the standard deviation of the number of individuals per species is 283.3. This measure indicates that there is considerable variability in species abundance.
 
-<img src="https://github.com/Dantron98/Portfolio/blob/main/images/dis_sp.png" width="500">
+![](https://github.com/Dantron98/Portfolio/blob/main/images/dis_sp.png)
 
 An important finding is that some species may have a significantly higher number of individuals, while others may have a lower presence in the study area.
 
