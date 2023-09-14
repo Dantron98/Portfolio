@@ -1,7 +1,10 @@
 # Portfolio
-# Projecto 1: [Reconocimiento Facial](https://github.com/Dantron98/ReconocimientoFacial/tree/main)
 
-CNN entrenada para el reconocimiento facial en tiempo real de un equipo de trabajo la cual fue entrenada usando Keras y Tensorflow usando la base de datos [CelebA](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset), una vez entrenado el modelo se usa OpenCV para el reconocimiento en tiempo real.
+
+
+# Project 1: [Facial Recognition](https://github.com/Dantron98/ReconocimientoFacial/tree/main)
+
+CNN trained for real-time facial recognition of a work team, which was trained using Keras and TensorFlow on the CelebA database. Once the model was trained, OpenCV was used for real-time recognition.
 
 
 
