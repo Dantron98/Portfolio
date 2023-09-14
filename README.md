@@ -8,7 +8,7 @@ The database consists of 206 different sighted entomological species and 43 plan
 I first focused on performing a statistical analysis, which provides useful information for the interests of my biologist colleagues.
 A total of 13,880 individuals were collected, averaging 67.37 individuals collected per species, while the standard deviation of the number of individuals per species is 283.3. This measure indicates that there is considerable variability in species abundance.
 
-![](/images/dis_sp.png | 500)
+![](/images/output.png)
 
 An important finding is that some species may have a significantly higher number of individuals, while others may have a lower presence in the study area.
 
@@ -16,7 +16,7 @@ An important finding is that some species may have a significantly higher number
 
 By analyzing the average and standard deviation, the entomologist can identify species that stand out in terms of their abundance or rarity. Those species with a number of individuals much higher than the average can be considered dominant or important species in the ecosystem. This information is vital for the project our colleagues are working on.
 
-![](/main/images/quercus_sp.png)
+![](/images/quercus_sp.png)
 
 Even though Sp3 is frequently found near Quercus trees along with other common species of the tree, to be classified as a pest, it primarily needs to be located on leaves, stems, and branches. However, for the most part, this was not the case, as it was found on nearby vegetation.
 
