@@ -20,8 +20,21 @@ By analyzing the average and standard deviation, the entomologist can identify s
 
 Even though Sp3 is frequently found near Quercus trees along with other common species of the tree, to be classified as a pest, it primarily needs to be located on leaves, stems, and branches. However, for the most part, this was not the case, as it was found on nearby vegetation.
 
+# Project 2: [Cosmic Ray Classification](https://github.com/Dantron98/pyroot)
+A Monte Carlo simulation analysis of astroparticle showers, such as protons, was conducted focusing on the parameters 
+Xmax and LogE. 
 
-# Project 2: [Facial Recognition](https://github.com/Dantron98/ReconocimientoFacial/tree/main)
+![](/images/jointplot.png)
+
+These data were transformed into a Data Frame using Pandas, the data were cleaned, and a linear fit was made using Scipy.
+
+![](/images/graf1.png)
+
+A linear relationship was deduced between these two parameters, which is clearer if we plot the energy averages for each Xmax value. The results obtained were used for the development of neural networks.
+
+![](/images/LgE_vs_avgXmax_Po.png)
+
+# Project 3: [Facial Recognition](https://github.com/Dantron98/ReconocimientoFacial/tree/main)
 
 CNN trained for real-time facial recognition of a work team, which was trained using Keras and TensorFlow on the CelebA database. Once the model was trained, OpenCV was used for real-time recognition.
 
